@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70vw;
+    height: 80vh;
+    margin: auto;
+    border: 2px solid black;
+    background-color: #150050;
+}
+
+.main {
+    width: 60vw;
+    height: 50vh;
+    background-color: #3F0071;
+    border-radius: 20px;
+}
+
+.row .date {
+    width: 100% !important;
+    height: 7vh !important;
+}
+
+.date .time {}
+
+.input-group .row-1 {
+    width: 200px;
+    background-color: aquamarine;
+}
+
+.form-control .input {
+    background-color: #150050 !important;
+    border: 2px solid blue !important;
+}
+
+.input-group-btn .btnn {
+    background-color: #3F0071;
+    color: white;
+    font-size: 1.1rem;
+}
+
+.input-group {
+    width: 50% !important;
+    border: 2px solid;
+}
